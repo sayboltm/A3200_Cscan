@@ -1,0 +1,42 @@
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\A32Cmplr.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\A32Cmplr64.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\A32Sys.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\A32Sys64.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\AerUtilities.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\AerUtilities64.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\LicenseDecoder.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\LicenseDecoder64.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\GUI.exe
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\GUI.pdb
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\Aerotech.A3200.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\Aerotech.Common.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\Aerotech.A3200.xml
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\Aerotech.Common.xml
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\de\Aerotech.A3200.resources.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\fr\Aerotech.A3200.resources.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\ja\Aerotech.A3200.resources.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\bin\Debug\zh-CN\Aerotech.A3200.resources.dll
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\obj\Debug\GUI.exe
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\obj\Debug\GUI.pdb
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\obj\Debug\GUI.formGUI.resources
+C:\Program Files (x86)\Aerotech\A3200\Samples\CSharp\DotNET\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CScanII\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\CScanII\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\A32Cmplr.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\A32Cmplr64.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\A32Sys.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\A32Sys64.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\AerUtilities.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\AerUtilities64.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\LicenseDecoder.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\LicenseDecoder64.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\Aerotech.A3200.xml
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\Aerotech.Common.xml
+C:\Users\Administrator\Desktop\CScanII\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CScanII\obj\Debug\GUI.formGUI.resources
+C:\Users\Administrator\Desktop\CScanII\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\Aerotech.A3200.dll
+C:\Users\Administrator\Desktop\CScanII\bin\Debug\Aerotech.Common.dll
